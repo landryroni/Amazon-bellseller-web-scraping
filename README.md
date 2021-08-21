@@ -1,4 +1,7 @@
 # Amazon-bellseller-web-scraping
+
+check out the jupyter notebook here https://jovian.ai/landryroni/amazon-best-seller-web-scraping
+
 web scraping amazon best seller with Using Python,  Requests and BeautifulSoup.
 
 Amazon.com is an American multinational technology company specialized in e-commerce, cloud computing, artificial intelligent. The platform is among the best in the industry, where many variety of items can be purchase.
@@ -23,4 +26,4 @@ Amazon Devices & Accessories,https://www.amazon.com/Best-Sellers/zgbs/amazon-dev
 Amazon Devices & Accessories,https://www.amazon.com/Best-Sellers/zgbs/amazon-devices/ref=zg_bs_nav_0/131-6756172-7735956,"Amazon Smart Plug, works with Alexa – A Certified for Humans Device",4.7,24.9,0.0,425090,"https://images-na.ssl-images-amazon.com/images/I/41uF7hO8FtL._AC_UL200_SR200,200_.jpg"
 Amazon Devices & Accessories,https://www.amazon.com/Best-Sellers/zgbs/amazon-devices/ref=zg_bs_nav_0/131-6756172-7735956,Fire TV Stick Lite with Alexa Voice Remote Lite (no TV controls) | HD streaming device | 2020 release,4.7,29.9,0.0,151007,"https://images-na.ssl-images-amazon.com/images/I/51Da2Z%2BFTFL._AC_UL200_SR200,200_.jpg"
 
-check out the jupyter notebook here https://jovian.ai/landryroni/amazon-best-seller-web-scraping
+
